@@ -1,0 +1,481 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl fg01
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 0
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg02
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg03
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg04
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg05
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg06
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg07
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg08
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg09
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg10
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg11
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg12
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg13
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg14
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg15
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg16
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg17
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg18
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg20
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg21
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fg22wheel
+Ka 0 0 0
+Kd 0.470588 0.478431 0.470588
+Ks 0.68 0.68 0.68
+Ni 1
+Ns 360
+Tf 1 1 1
+d 1
+
+newmtl fg23
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+
+newmtl fgelectric
+Ka 0 0 0
+Kd 0.996078 0.709804 0.180392
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl fgglass
+Ka 0 0 0
+Kd 0.0156863 0.0156863 0.0156863
+Ks 0.87 0.87 0.87
+Ni 1
+Ns 140
+Tf 1 1 1
+d 0.23
+
+newmtl fgglass2
+Ka 0 0 0
+Kd 0.552941 0.690196 0.737255
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fgglass3
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd mothertex.jpg
+map_bump mothertex_b.jpg
+bump mothertex_b.jpg
+
+newmtl fgglass4
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fglaser1
+Ka 0 0 0
+Kd 0 1 0.0235294
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl fgpipe
+Ka 0.15 0.15 0.15
+Kd 0.784314 0.784314 0.784314
+Ks 0.4 0.4 0.4
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fgram1
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+
+newmtl fgram2
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+
+newmtl fgweapon1
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.3 0.3 0.3
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fgweapon2
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.3 0.3 0.3
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fgweapon3
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.3 0.3 0.3
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl fgweapon4
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+
+newmtl glass1
+Ka 0 0 0
+Kd 0.780392 0.929412 0.945098
+Ks 0.71 0.71 0.71
+Ni 1
+Ns 280
+Tf 1 1 1
+d 1
+
+newmtl hole1
+Ka 0 0 0
+Kd 0.266667 0.266667 0.266667
+Ks 0.645 0.645 0.645
+Ni 1
+Ns 79
+Tf 1 1 1
+d 1
+
+newmtl hole2
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd retroship001.png
+map_bump retroship001_b.png
+bump retroship001_b.png
+
+newmtl hopea
+Ka 0 0 0
+Kd 0.580392 0.670588 0.666667
+Ks 0.8 0.8 0.8
+Ni 1
+Ns 50
+Tf 1 1 1
+d 1
+
+newmtl ponton
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.3 0.3 0.3
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl siipi1
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flashg01.png
+map_bump flashg01_b.jpg
+bump flashg01_b.jpg
+
+newmtl valob
+Ka 1 1 1
+Kd 0.843137 0.666667 0.141176
+Ks 0 0 0
+Ni 1
+Ns 0
+Tf 1 1 1
+d 1
+
