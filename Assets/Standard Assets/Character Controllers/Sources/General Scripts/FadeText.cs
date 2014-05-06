@@ -3,7 +3,7 @@ using System.Collections;
 
 public class FadeText : MonoBehaviour
 {
-	const float DURATION = 10.0f;
+	const float DURATION = 15.0f;
 	private void Update() 
 	{
 		if( Time.time > DURATION)
